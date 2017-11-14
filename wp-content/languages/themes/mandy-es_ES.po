@@ -1,0 +1,32 @@
+# Translation of Themes - Mandy in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Mandy package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-04 13:37:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Mandy\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme which is ideal for creating a corporate / business website. Mandy theme is a child theme of the Appointment theme and is the Mandy color variation. Those who need the white background-based theme can use this child theme. Mandy theme comes with various locales."
+msgstr "Un tema para negocios que es ideal para un sitio web corporativo o de empresa. El tema Mandy es un tema hijo de Appointment, pero con la variación de colores Mandy. Si necesitas la variación del tema con el fondo blanco, puedes usar este tema hijo. mandy está traducido a varios locales / idiomas."
+
+#. Theme Name of the plugin/theme
+msgid "Mandy"
+msgstr "Mandy"
+
+#. Theme URI of the plugin/theme
+msgid "http://webriti.com/mandy-child-version-details-page/"
+msgstr "http://webriti.com/mandy-child-version-details-page/"
+
+#. Author URI of the plugin/theme
+msgid "http://www.webriti.com"
+msgstr "http://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"

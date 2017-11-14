@@ -1,0 +1,395 @@
+
+---Downloaded files---
+The import files for: BuildPress Light were successfully downloaded!
+Initial max execution time = 50
+Files info:
+Site URL = http://www.bigsacperu.com/web
+Data file = E:\vhosts\bigsacperu.com\httpdocs\web/wp-content/uploads/2017/07/demo-content-import-file_2017-07-13__22-11-06.xml
+Widget file = E:\vhosts\bigsacperu.com\httpdocs\web/wp-content/uploads/2017/07/demo-widgets-import-file_2017-07-13__22-11-06.json
+Customizer file = E:\vhosts\bigsacperu.com\httpdocs\web/wp-content/uploads/2017/07/demo-customizer-import-file_2017-07-13__22-11-06.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Drills
+[WARNING] Failed to import product_cat Grinders
+[WARNING] Failed to import product_cat Hand Tools
+[WARNING] Failed to import product_cat Saws
+[WARNING] Failed to import product_cat Vacuum
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Drills
+[WARNING] Failed to import product_cat Grinders
+[WARNING] Failed to import product_cat Hand Tools
+[WARNING] Failed to import product_cat Saws
+[WARNING] Failed to import product_cat Vacuum
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Drills
+[WARNING] Failed to import product_cat Grinders
+[WARNING] Failed to import product_cat Hand Tools
+[WARNING] Failed to import product_cat Saws
+[WARNING] Failed to import product_cat Vacuum
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Drills
+[WARNING] Failed to import product_cat Grinders
+[WARNING] Failed to import product_cat Hand Tools
+[WARNING] Failed to import product_cat Saws
+[WARNING] Failed to import product_cat Vacuum
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Drills
+[WARNING] Failed to import product_cat Grinders
+[WARNING] Failed to import product_cat Hand Tools
+[WARNING] Failed to import product_cat Saws
+[WARNING] Failed to import product_cat Vacuum
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Drills
+[WARNING] Failed to import product_cat Grinders
+[WARNING] Failed to import product_cat Hand Tools
+[WARNING] Failed to import product_cat Saws
+[WARNING] Failed to import product_cat Vacuum
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Drills
+[WARNING] Failed to import product_cat Grinders
+[WARNING] Failed to import product_cat Hand Tools
+[WARNING] Failed to import product_cat Saws
+[WARNING] Failed to import product_cat Vacuum
+[WARNING] Failed to import "Standing Saw": Invalid post type product
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Drills
+[WARNING] Failed to import product_cat Grinders
+[WARNING] Failed to import product_cat Hand Tools
+[WARNING] Failed to import product_cat Saws
+[WARNING] Failed to import product_cat Vacuum
+[WARNING] Failed to import "Standing Saw": Invalid post type product
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Drills
+[WARNING] Failed to import product_cat Grinders
+[WARNING] Failed to import product_cat Hand Tools
+[WARNING] Failed to import product_cat Saws
+[WARNING] Failed to import product_cat Vacuum
+[WARNING] Failed to import "Standing Saw": Invalid post type product
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Drills
+[WARNING] Failed to import product_cat Grinders
+[WARNING] Failed to import product_cat Hand Tools
+[WARNING] Failed to import product_cat Saws
+[WARNING] Failed to import product_cat Vacuum
+[WARNING] Failed to import "Standing Saw": Invalid post type product
+[WARNING] Failed to import "Portable Saw": Invalid post type product
+[WARNING] Failed to import "Industrial Drill": Invalid post type product
+[WARNING] Failed to import "Portable Drill": Invalid post type product
+[WARNING] Failed to import "Standing Drill": Invalid post type product
+[WARNING] Failed to import "Polishing Tool": Invalid post type product
+[WARNING] Failed to import "Power Tool": Invalid post type product
+[WARNING] Failed to import "Miter": Invalid post type product
+[WARNING] Failed to import "Nailer": Invalid post type product
+[WARNING] Failed to import "The brush": Invalid post type product
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Drills
+[WARNING] Failed to import product_cat Grinders
+[WARNING] Failed to import product_cat Hand Tools
+[WARNING] Failed to import product_cat Saws
+[WARNING] Failed to import product_cat Vacuum
+[WARNING] Failed to import "Standing Saw": Invalid post type product
+[WARNING] Failed to import "Portable Saw": Invalid post type product
+[WARNING] Failed to import "Industrial Drill": Invalid post type product
+[WARNING] Failed to import "Portable Drill": Invalid post type product
+[WARNING] Failed to import "Standing Drill": Invalid post type product
+[WARNING] Failed to import "Polishing Tool": Invalid post type product
+[WARNING] Failed to import "Power Tool": Invalid post type product
+[WARNING] Failed to import "Miter": Invalid post type product
+[WARNING] Failed to import "Nailer": Invalid post type product
+[WARNING] Failed to import "The brush": Invalid post type product
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Drills
+[WARNING] Failed to import product_cat Grinders
+[WARNING] Failed to import product_cat Hand Tools
+[WARNING] Failed to import product_cat Saws
+[WARNING] Failed to import product_cat Vacuum
+[WARNING] Failed to import "Standing Saw": Invalid post type product
+[WARNING] Failed to import "Portable Saw": Invalid post type product
+[WARNING] Failed to import "Industrial Drill": Invalid post type product
+[WARNING] Failed to import "Portable Drill": Invalid post type product
+[WARNING] Failed to import "Standing Drill": Invalid post type product
+[WARNING] Failed to import "Polishing Tool": Invalid post type product
+[WARNING] Failed to import "Power Tool": Invalid post type product
+[WARNING] Failed to import "Miter": Invalid post type product
+[WARNING] Failed to import "Nailer": Invalid post type product
+[WARNING] Failed to import "The brush": Invalid post type product
+
+
+---Importing widgets---
+cs-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Menú personalizado - No Title - Imported to Inactive
+
+cs-2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Menú personalizado - No Title - Imported to Inactive
+
+Blog Sidebar : 
+
+Buscar - No Title - Widget already exists
+Entradas recientes - No Title - Widget already exists
+Comentarios recientes - No Title - Widget already exists
+Archivos - No Title - Widget already exists
+Categorías - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Entradas recientes - Awesome Posts - Imported
+HTML - Follow Us on Twitter - Imported
+Nube de etiquetas - Tag Cloud - Imported
+
+shop-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - Search Products - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_product_categories - Product Categories - Site does not support widget
+woocommerce_top_rated_products - Top Rated Products - Site does not support widget
+
+Header : 
+
+ProteusThemes: Icon Box - 1-888-123-4567 - Imported
+ProteusThemes: Icon Box - 227 Marion Street - Imported
+ProteusThemes: Icon Box - Mon - Sat 8.00 - 18.00 - Imported
+ProteusThemes: Social Icons - No Title - Imported
+
+Footer : 
+
+HTML - ABOUT US - Imported
+Menú personalizado - SERVICES - Imported
+Menú personalizado - EXTRAS - Imported
+HTML - OUR CONTACT - Imported
+HTML - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+After import setup ended!
